@@ -1,0 +1,1 @@
+this oled sketch allows for the blinking of words "mail received" every 300ms
