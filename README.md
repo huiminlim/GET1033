@@ -7,6 +7,6 @@ Included learning and test circuits/sketches:
 * LCD Display
 * Push Button
 
-Work in progress
+Included
 * Final circuit
 * Sketch for final circuit
